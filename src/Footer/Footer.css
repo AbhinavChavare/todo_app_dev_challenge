@@ -1,0 +1,39 @@
+.footerdown{
+    width: 100%;
+
+}
+.foter-cont{
+background-color:#373d41; ;
+color: white;
+min-height: 3rem;
+padding:1rem 1.5rem;
+box-sizing: border-box;
+
+}
+.fot-data-con{
+    min-height: 3rem;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: .3rem;
+}
+.footer-data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ }
+.iconsz{
+    font-size: 2.1em;
+    padding: .3rem;
+    margin: .2rem;
+    background-color: whitesmoke;
+    border-radius: 50%;
+}
+a{
+    color:rgb(85, 116, 252);
+   
+}
